@@ -1,0 +1,89 @@
+
+body{
+	background-color: black;
+
+}
+h1{
+	text-align: left;
+	color:#FFEB99;
+	font-family: copperplate;
+	font-weight: bold;
+}
+.texta{
+	font-family: copperplate;
+	font-size: 18px;
+}
+.textTwo{
+	text-align: left;
+	color:#FFEB99;
+	font-family: copperplate;
+	font-weight: bold;
+	font-size: 45px;
+
+}
+p{
+	
+	text-align: center;
+	position: center;
+	font-family: Optima;
+	font-size: 30px;
+
+}
+.text{
+	font-size: 20px;
+}
+#one{
+	color: #FFEB99;
+	font-size: 45px;
+	font-family: copperplate;
+}
+#two{
+	color: black;
+	font-family: copperplate;
+	font-size: 18px;
+}
+#list{
+	text-align: left;
+	font-family: Optima;
+	font-size: 25px;
+	color: white;
+}
+a{
+	text-decoration: none;
+	color: #FFEB99;
+}
+.banner{
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 700px;
+	width: 98%;
+	border: 15px solid black;
+	text-align: center;
+	overflow: scroll;
+}
+br{
+	height:500px;
+}
+.button{
+	height: 50px;
+	width: 100px;
+	border: 2px solid #FFEB99;
+	border-radius: 20px;
+	color:#FFEB99;
+	
+}
+#bone{
+	background-image: url("ovo23-copy3.jpg");
+}
+#btwo{
+	background-image: url("OVO.jpg");
+}
+#belowOwl{
+	height: 140px;
+}
+.me{
+	height: 50px;
+	width:101%;
+	background-color: #FFEB99;
+	text-align: center;
+}
